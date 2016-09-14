@@ -8,4 +8,3 @@ def multiple(n):
 	print(sum(l))
 
 multiple(999)
-
